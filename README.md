@@ -1,4 +1,4 @@
 # hello-world
-My first program 
+My first text
 
-Hello, everyone! This is my first program and it's gonna kick your @$$!
+Hello, everyone! This is my first text on github.com!
